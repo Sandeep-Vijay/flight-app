@@ -1,0 +1,91 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&family=Poppins&display=swap');
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.bg-img{
+    background-image: url('./images/cover.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+
+}
+
+.navbar {
+    background-color: #ffffff00;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: right; 
+}
+
+.nav-list li {
+    display: inline-block;
+    margin-right: 20px; 
+}
+
+.nav-list li:last-child {
+    margin-right: 0; 
+}
+
+.nav-list li a {
+    color: white;
+    text-decoration: none;
+}
+
+#arabic{font-family: 'Noto Kufi Arabic', sans-serif;
+
+}
+
+.coverform{
+height: 314px;
+width: 856px;
+background-color: white ;
+margin-top: 259px;
+border-radius: 48px;
+
+}
+.radio-inline {
+    display: inline-block;
+    margin-right: 10px; 
+}
+.departure{
+    width: 774px;
+    height: 103px;
+    background-color: #f4f4f4;
+    border-radius: 24px;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 2px;
+    font-family: 'Poppins', sans-serif;
+
+
+} 
+
+.horizontal-container {
+    display: flex;
+    height: 50px;
+}
+
+.horizontal-item {
+    margin-right: 10px; 
+    background-color: #f4f4f4;
+    border: solid 2px #cccccc;
+    border-radius: 24px;
+}
+
+
+
+
