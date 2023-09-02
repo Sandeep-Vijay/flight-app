@@ -215,7 +215,7 @@ border-radius: 48px;
 .img-lady{
     background-image: url('./images/lady\ bgsvg.svg');
     margin-left: 100px;
-    margin-top: px;
+    
 }
 
 /* Hide the element with class "hide-on-small-screen" on screens with a maximum width of 768px */
